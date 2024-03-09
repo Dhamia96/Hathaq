@@ -1,0 +1,35 @@
+job_id,job_title,company_name,required_skills
+672,محلل أعمال,Aramco,"Microsoft Office Suite (Word، Excel، PowerPoint)
+أدوات النمذجة مثل Microsoft Visio أو Lucidchart
+برامج إدارة المشاريع مثل Microsoft Project، Jira، Trello
+أدوات الاختبار والجودة مثل HP Quality Center، Selenium
+أدوات التحليل البياني مثل Microsoft Power BI، Tableau
+أدوات إدارة المحتوى مثل SharePoint، Confluence
+أدوات النمذجة والتحليل الإحصائي مثل IBM SPSS، SAS"
+101,مصمم واجهة المستخدم,SDAIA,"Figma: أداة التصميم الأساسية والمحورية.
+Adobe Photoshop وAdobe Illustrator: للتصميم الرسومي.
+أدوات التجربة والبروتوتايب: مثل InVision وProto.io وSketch.
+أدوات التعاون والمشاركة: مثل Zeplin وAvocode وFramer.
+مكتبة العناصر والنماذج الجاهزة: مثل UI8 وFigmaCrush وFigma Finder.
+أدوات التصميم المستندات والتنظيم: مثل Google Drive وDropbox وNotion."
+984,خبير أمن سيبراني,Elm,"أدوات المسح والاختبار الأمني: مثل Nmap وBurp Suite وOpenVAS وMetasploit وWireshark وNessus وOWASP Zap. تُستخدم هذه الأدوات لاكتشاف الثغرات وتحليل الشبكات واختبار أمان التطبيقات وتنفيذ هجمات اختبار الاختراق.
+
+أدوات التحليل والرصد: مثل Splunk وELK Stack وWireshark وSnort وSuricata. تُستخدم هذه الأدوات لتحليل سجلات الشبكة والحوادث ورصد الهجمات والتهديدات الأمنية.
+
+أدوات إدارة الهوية والوصول: مثل Active Directory وLDAP وOkta وAzure Active Directory وPing Identity. تُستخدم هذه الأدوات لتنفيذ وإدارة أنظمة إدارة الهوية والوصول وضمان أمان الوصول للمستخدمين والأنظمة.
+
+أدوات التشفير والتوقيع الرقمي: مثل OpenSSL وGnuPG وHashcat وOpenSSH. تُستخدم هذه الأدوات لتأمين الاتصالات وتشفير البيانات والتحقق من الأصالة وتوقيع الرسائل الإلكترونية.
+
+أدوات إدارة الأمان: مثل Security Information and Event Management (SIEM) مثل Splunk وLogRhythm وArcSight وأنظمة إدارة التهديدات المتقدمة (Threat Intelligence Platforms) مثل ThreatConnect وRecorded Future. تُستخدم هذه الأدوات لإدارة وتحليل الأحداث الأمنية وتحويل بيانات الأمان إلى معلومات قابلة للتحليل.
+
+"
+111,مدير التسويق الرقمي,Hathaq,"
+أدوات إدارة الحملات الإعلانية: Google Ads، Facebook Ads، LinkedIn Ads، Twitter Ads.
+أدوات تحليل الويب: Google Analytics، Adobe Analytics.
+أدوات تحسين محركات البحث (SEO): Yoast SEO، SEMrush.
+منصات التواصل الاجتماعي: Facebook، Twitter، Instagram، LinkedIn، Hootsuite، Buffer.
+أدوات التسويق التابع: ShareASale، Commission Junction.
+أدوات التحليل البياني: Google Data Studio، Tableau
+أنظمة إدارة المحتوى (CMS): WordPress، Drupal.
+أدوات التسويق البريدي الإلكتروني والتسويق الأتوماتيكي: Mailchimp، HubSpot.
+"
