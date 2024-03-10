@@ -1,4 +1,4 @@
-#### Academic Platform with AI Technology
+# Academic Platform with AI Technology (حذق)
 
 This project aims to develop an academic platform that leverages AI technology to enhance the learning experience and facilitate career development for students. The platform consists of three Python files, each serving a specific purpose.
 
